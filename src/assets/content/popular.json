@@ -1,0 +1,75 @@
+{
+    "popularMovies": [
+      {
+        "id": 1,
+        "title": "Eternal Sunshine",
+        "year": 2024,
+        "genre": "Drama",
+        "ratings": 8.7,
+        "director": "Alex Reed",
+        "cast": ["Jordan Kaye", "Samantha Groves", "Liam Neeson"],
+        "synopsis": "A tale of love and memory, where two lovers find themselves again through a scientific marvel."
+      },
+      {
+        "id": 2,
+        "title": "The Space Odyssey",
+        "year": 2023,
+        "genre": "Sci-Fi",
+        "ratings": 9.1,
+        "director": "Mia Wong",
+        "cast": ["Chris Hemsworth", "Zoe Saldana", "Tom Hiddleston"],
+        "synopsis": "An epic journey through the cosmos to discover the origins of mankind."
+      },
+      {
+        "id": 3,
+        "title": "Quantum Leap",
+        "year": 2024,
+        "genre": "Adventure",
+        "ratings": 8.4,
+        "director": "Ian Smith",
+        "cast": ["Emma Watson", "Daniel Radcliffe", "Rupert Grint"],
+        "synopsis": "A group of explorers undertake a mission to navigate through time to prevent a catastrophic future."
+      },
+      {
+        "id": 4,
+        "title": "Lost in Memories",
+        "year": 2023,
+        "genre": "Thriller",
+        "ratings": 7.9,
+        "director": "Lucas Green",
+        "cast": ["Natalie Portman", "Hugh Jackman", "Michael Fassbender"],
+        "synopsis": "A suspenseful thriller about a detective uncovering the secrets of a forgotten past."
+      },
+      {
+        "id": 5,
+        "title": "Beyond the Horizon",
+        "year": 2024,
+        "genre": "Drama",
+        "ratings": 8.5,
+        "director": "Sophie Chen",
+        "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+        "synopsis": "An inspiring story of survival and discovery in the face of the unexplored."
+      },
+      {
+        "id": 6,
+        "title": "The Last Dreamer",
+        "year": 2023,
+        "genre": "Fantasy",
+        "ratings": 8.8,
+        "director": "Omar Farooq",
+        "cast": ["Ian McKellen", "Elijah Wood", "Viggo Mortensen"],
+        "synopsis": "In a mystical land where dreams dictate the future, one dreamer must save the world from an impending doom."
+      },
+      {
+        "id": 7,
+        "title": "Echoes of the Past",
+        "year": 2024,
+        "genre": "Mystery",
+        "ratings": 8.2,
+        "director": "Haley Wright",
+        "cast": ["Tom Hardy", "Cillian Murphy", "Mark Ruffalo"],
+        "synopsis": "A gripping tale of a historian unravelling ancient secrets that could change the present world."
+      }
+    ]
+  }
+  

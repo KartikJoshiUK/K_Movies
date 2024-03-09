@@ -1,0 +1,40 @@
+{
+    "trendingMovies": [
+      {
+        "id": 1,
+        "title": "Eternal Sunshine",
+        "year": 2024,
+        "genre": "Drama",
+        "ratings": 8.7
+      },
+      {
+        "id": 2,
+        "title": "The Space Odyssey",
+        "year": 2023,
+        "genre": "Sci-Fi",
+        "ratings": 9.1
+      },
+      {
+        "id": 3,
+        "title": "Quantum Leap",
+        "year": 2024,
+        "genre": "Adventure",
+        "ratings": 8.4
+      },
+      {
+        "id": 4,
+        "title": "Lost in Memories",
+        "year": 2023,
+        "genre": "Thriller",
+        "ratings": 7.9
+      },
+      {
+        "id": 5,
+        "title": "Beyond the Horizon",
+        "year": 2024,
+        "genre": "Drama",
+        "ratings": 8.5
+      }
+    ]
+  }
+  

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "994559826199",
+    "project_id": "k-movie-e8805",
+    "storage_bucket": "k-movie-e8805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994559826199:android:710c6e0ebd955f032b7f52",
+        "android_client_info": {
+          "package_name": "com.kartikjoshi2003.K_Movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994559826199-h7pmh5jc53h5sidjp1s39r7od4tin0sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartikjoshi2003.K_Movies",
+            "certificate_hash": "880397a7408965788952a95cf275a1ca585ae9d8"
+          }
+        },
+        {
+          "client_id": "994559826199-nj50ri2gtfqqtnt8m1m7loklekqubb1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartikjoshi2003.K_Movies",
+            "certificate_hash": "a3dfd4cc822a93aa0811435f325436be54a801f2"
+          }
+        },
+        {
+          "client_id": "994559826199-16t8lvepp4256u8j9vnub7gp94bn72rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulinPNDnvmgRXBPdDwTU6FvqtwDUMyxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994559826199-16t8lvepp4256u8j9vnub7gp94bn72rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

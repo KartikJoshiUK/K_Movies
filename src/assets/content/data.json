@@ -1,0 +1,166 @@
+{
+    "movies" : [
+        {
+            "imdb_id": "tt9243946",
+            "title": "El Camino: A Breaking Bad Movie",
+            "year": 2019,
+            "popularity": 838,
+            "description": "Finally free from torture and slavery at the hands of Tod's uncle Jack, and from Mr. White, Jesse must escape demons from his past. He's on the run from a police manhunt, with his only hope of escape being Saul Goodman's hoover guy, Ed Galbraith. A man who for the right price, can give you a new identity and a fresh start. Jesse is racing against the clock, with help from his crew, avoiding capture to get enough money together to buy a 'new dust filter for his Hoover MaxExtract PressurePro model', a new life.",
+            "content_rating": "TV-MA",
+            "movie_length": 122,
+            "rating": 7.3,
+            "created_at": "2021-04-29T11:25:49.027265+03:00",
+            "trailer": "https://www.youtube.com/embed/1JLUn2DFW4w",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "release": "2019-10-11",
+            "plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+            "banner": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_.jpg",
+            "type": "movie",
+            "more_like_this": {},
+            "gen": [
+              {
+                "id": 7,
+                "genre": "Crime"
+              },
+              {
+                "id": 8,
+                "genre": "Drama"
+              },
+              {
+                "id": 13,
+                "genre": "Action"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 240,
+                "keyword": "violence"
+              },
+              {
+                "id": 679,
+                "keyword": "neo noir"
+              },
+              {
+                "id": 849,
+                "keyword": "anti hero"
+              },
+              {
+                "id": 1029,
+                "keyword": "chase"
+              },
+              {
+                "id": 2597,
+                "keyword": "crystal meth"
+              }
+            ]
+          },
+        {
+            "imdb_id": "tt4154756",
+            "title": "Avengers: Infinity War",
+            "year": 2018,
+            "popularity": 94,
+            "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.",
+            "content_rating": "PG-13",
+            "movie_length": 149,
+            "rating": 8.4,
+            "created_at": "2021-04-27T22:22:34.265626+03:00",
+            "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "release": "2018-04-25",
+            "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "banner": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+            "type": "movie",
+            "more_like_this": {},
+            "gen": [
+              {
+                "id": 4,
+                "genre": "Adventure"
+              },
+              {
+                "id": 11,
+                "genre": "Sci-Fi"
+              },
+              {
+                "id": 13,
+                "genre": "Action"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 57,
+                "keyword": "marvel cinematic universe"
+              },
+              {
+                "id": 62,
+                "keyword": "superhero"
+              },
+              {
+                "id": 139,
+                "keyword": "death of recurring character"
+              },
+              {
+                "id": 140,
+                "keyword": "supervillain"
+              },
+              {
+                "id": 141,
+                "keyword": "ensemble cast"
+              }
+            ]
+          },
+        {
+            "imdb_id": "tt0089087",
+            "title": "The Emerald Forest",
+            "year": 1985,
+            "popularity": 0,
+            "description": "Based on a true story, Powers Boothe plays an American dam engineer in Brazil. Boothe's son (played by Charlie Boorman - son of director John Boorman) is kidnapped by a rain forest tribe, and raised as one of their own. Boothe continues to look for him and after many trials and adventures, stumbles upon him.",
+            "content_rating": "R",
+            "movie_length": 114,
+            "rating": 6.9,
+            "created_at": "2021-04-29T11:32:30.277733+03:00",
+            "trailer": "https://www.youtube.com/embed/FR4riTsF21o",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNmY4MzRlYzQtZTlmOC00ZWM5LTkzYjMtZDJhNWRjZjIzNGNhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "release": "1985-08-29",
+            "plot": "After the son of engineer Bill Markham is abducted by an aboriginal tribe on the edge of the rain forest, the engineer spends the next 10 years searching for him.",
+            "banner": "https://m.media-amazon.com/images/M/MV5BNmY4MzRlYzQtZTlmOC00ZWM5LTkzYjMtZDJhNWRjZjIzNGNhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+            "type": "movie",
+            "more_like_this": {},
+            "gen": [
+              {
+                "id": 4,
+                "genre": "Adventure"
+              },
+              {
+                "id": 8,
+                "genre": "Drama"
+              },
+              {
+                "id": 13,
+                "genre": "Action"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 1013,
+                "keyword": "hunt"
+              },
+              {
+                "id": 2455,
+                "keyword": "tribe"
+              },
+              {
+                "id": 8590,
+                "keyword": "native american culture"
+              },
+              {
+                "id": 13260,
+                "keyword": "downpour"
+              },
+              {
+                "id": 13261,
+                "keyword": "native language"
+              }
+            ]
+        }
+    ]
+}
