@@ -10,15 +10,15 @@ export default function Profile({ navigation }) {
   return (
     <View style={styles.container}>
       <Text style={styles.pageTitle}>User Profile</Text>
-      {userInfo?._user?.photoURL && (
+      {userInfo?.user?._user?.photoURL && (
         <Image
-          source={{ uri: userInfo?._user?.photoURL }}
+          source={{ uri: userInfo?.user?._user?.photoURL }}
           style={styles.userImage}
         />
       )}
 
-      <Text style={styles.userName}>{userInfo?._user?.displayName}</Text>
-      <Text style={styles.userName}>{userInfo?._user?.email}</Text>
+      <Text style={styles.userName}>{userInfo?.user?._user?.displayName}</Text>
+      <Text style={styles.userName}>{userInfo?.user?._user?.email}</Text>
       <TouchableOpacity
         onPress={() => {
           googleSignout();

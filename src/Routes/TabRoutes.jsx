@@ -84,7 +84,7 @@ export default function TabRoutes() {
             <Image
               source={{
                 uri:
-                  userInfo?._user?.photoURL ??
+                  userInfo?.user?._user?.photoURL ??
                   "https://cdn.britannica.com/60/182360-050-CD8878D6/Avengers-Age-of-Ultron-Joss-Whedon.jpg",
               }}
               style={{
